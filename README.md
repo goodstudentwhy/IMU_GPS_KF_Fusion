@@ -1,4 +1,4 @@
-# IMU_GPS_KFmix
+# IMU_GPS_KF_Fusion
 使用MATLAB建立数学模型。
 
 使用卡尔曼融合GPS数据和加速度数据。
